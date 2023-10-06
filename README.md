@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anuj</h1>
-<h3 align="center">A Finance Guy Wonderer Who Wondered into Haven of Coders</h3>
+<h3 align="center">A Finance Wonderer Who Wondered into Haven of Coders</h3>
 
 - 🌱 I’m currently learning **Valuation**
 
